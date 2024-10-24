@@ -1,0 +1,42 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: black;
+    background-color: aliceblue;
+}
+
+header{
+    background-color: aliceblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px 0;
+    
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
+
+p{
+    text-align: justify;
+    
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table,th,td {
+    border:  1px solid black
+}
+
+th ,td{
+    padding: 8px;
+    text-align: left;
+}
+th{
+    background-color: black;
+    color: blue;
+}
